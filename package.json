@@ -1,16 +1,12 @@
 {
-  "name": "walmartlabschallenge",
-  "version": "1.0.0",
-  "description": "Walmart Labs Challenge",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Manjesh Malavalli",
-  "license": "MIT",
-  "devDependencies": {
-    "express": "^4.13.4",
-    "promise": "^7.1.1",
+  "name": "walmart",
+  "version": "0.0.1",
+  "description": "Tanmays Solution To Walmart Challenge",
+  "main": "src/app.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "hapi": "^13.4.1",
     "request": "^2.72.0"
-  }
+  },
+  "author": "Tanmay Shrivastava"
 }
