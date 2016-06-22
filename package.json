@@ -2,7 +2,7 @@
   "name": "walmart",
   "version": "0.0.1",
   "description": "Tanmays Solution To Walmart Challenge",
-  "main": "src/app.js",
+  "main": "app.js",
   "dependencies": {
     "async": "^2.0.0-rc.6",
     "hapi": "^13.4.1",
